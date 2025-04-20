@@ -3,8 +3,7 @@
 Welcome to the official **Spikers SRM Landing Page** repository!  
 This is a responsive and visually engaging landing page built for **Spikers**, the official sports club of SRM Institute of Science and Technology.
 
-### 🚀 Live Preview
-Check it out live: [**Coming Soon**](#) (Update with deployed link if hosted)
+### 🚀 Live Previewhttps://janhavi187.github.io/Spiker-landing-page/
 
 ---
 
